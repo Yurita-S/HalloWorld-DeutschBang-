@@ -12,7 +12,7 @@ The game is divided into two modes:
 
 What makes it special?
 
-- The phrases range from *useful* ("Where is the toilet?"), to *sweet* ("My heart beats for you"), to *just plain dumb* ("I am a potato.")
+- The phrases range from *useful* ("Long time no see!"), to *sweet* ("My heart beats for you"), to *just plain dumb* ("I am a potato.")
 - There's no grammar, no textbooks, and definitely no boring drills.
 - It's built entirely with Python – no fancy libraries – just pure logic, lists, and love 💖
 
